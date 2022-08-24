@@ -1,7 +1,7 @@
 {
-    "name": "xray-heroku",
-    "description": "deploy xray to heroku",
-    "keywords": ["xray"],
+    "name": "blog5",
+    "description": "my blog5",
+    "keywords": ["blog5"],
     "env": {
         "PROTOCOL": {
             "description": "choose vless or vmess",
@@ -12,6 +12,6 @@
             "value": "36cfc3de-ecfd-4752-ae6f-8f0f92035143"        
         }
     },
-    "repository": "https://github.com/iamtrazy/xray-heroku",
+    "repository": "https://github.com/herokumjj123/blog5",
     "stack": "container"
 }
